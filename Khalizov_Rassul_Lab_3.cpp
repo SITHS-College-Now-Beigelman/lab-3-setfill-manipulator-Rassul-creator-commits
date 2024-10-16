@@ -17,9 +17,9 @@ int main() // uses the main
     cout << "#" << setfill(' ') << setw(85) << "#" << endl;                               
     cout << ('#') << setfill(' ') << setw(59) << "Press the key combination Ctrl + Shift + Escape" << setfill(' ') << setw(26) << "#" << endl;
     cout << "#" << setfill(' ') << setw(85) << "#" << endl;                               
-    cout << "#" << setfill(' ') << setw(86) << "Press the key combination Ctrl + Alt + Delete and select  “Task Manager\"" << "#" << endl; 
+    cout << "#" << setfill(' ') << setw(86) << "Press the key combination Ctrl + Alt + Delete and select  “Task Manager" << "#" << endl; 
     cout << "#" << setfill(' ') << setw(85) << "#" << endl;                               
-    cout << "#" << setfill(' ') << setw(68) << "Type “Task Manager”\ in the Windows Start menu search" << setfill(' ') << setw(21) << "#" << endl;
+    cout << "#" << setfill(' ') << setw(68) << "Type “Task Manager” in the Windows Start menu search" << setfill(' ') << setw(21) << "#" << endl;
     cout << setw(10) << "#                                                                                    #" << endl;
     cout << setw(86) << setfill('#') << ('#') << endl;                                                                                  
     
